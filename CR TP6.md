@@ -1,3 +1,3 @@
 # Compte  rendu TP 6 :
 
-##Exercice 1 :
+## Exercice 1 :

@@ -31,3 +31,6 @@ De plus, pour que ce changement soit permanent on viens modifier le nom du serve
 
 ![image](https://user-images.githubusercontent.com/60741854/193546731-c58c2cc5-8fc1-4735-9748-0d424aab64b3.png)
 
+
+## Exercice 3 :
+

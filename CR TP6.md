@@ -26,4 +26,8 @@ Sous réseaux | Adresse de sous-réseau | Adresse de broadcast | Première addr 
 
  3 - Pour supprimer le paquet cloud-init on effectue la comande "sudo apt-get remove cloud-init" sur les deux machines (client et serveur)
  
- 4 - 
+ 4 - Pour changer le ghostname on tape la commande "sudo hostnamectl set-hostname SrvBour"
+De plus, pour que ce changement soit permanent on viens modifier le nom du serveur dans le fichier "/etc/hosts" avec la commande "sudo nano /etc/hosts" :
+
+![image](https://user-images.githubusercontent.com/60741854/193546731-c58c2cc5-8fc1-4735-9748-0d424aab64b3.png)
+
